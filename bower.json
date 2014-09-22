@@ -1,0 +1,15 @@
+{
+  "name": "receta",
+  "version": "0.0.1",
+  "authors": [
+    "Higor Moreno Ribeiro <higormorenoribeiro@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
